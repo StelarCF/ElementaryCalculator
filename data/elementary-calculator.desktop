@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Elementary Calculator
+GenericName=Calculator
+Comment=An elementary calculator with advanced functions
+Categories=Utility;Mathematics;
+Exec=elementary-calculator
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=elementary-calculator
+X-GNOME-Keywords=math;calculator;elementary;

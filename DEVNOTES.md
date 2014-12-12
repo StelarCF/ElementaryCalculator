@@ -1,0 +1,1 @@
+You have to download gtk+ ($ sudo apt-get install libgtk-3-0 libgtk-3-dev libgtk-3-0-dbg)
